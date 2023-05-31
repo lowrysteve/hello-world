@@ -7,5 +7,5 @@ I'm ~~trying to learn~~ learning how to program, and with that, how to use **Git
 Here's an attempt at a quote:
 > Every journey begins with a first step - Confucius, I think
 
-Future Steve, if you're reading this, just know the Past version of you is rooting for you and doing his best. So are your family and friends. Be patient to them and yourself. ***BELIEVE IN YOURSELF TOO!!! You've got this***
+Future Steve, if you're reading this, just know the Past version of you is rooting for you and doing his best. So are your family and friends. Be patient with them and yourself. ***BELIEVE IN YOURSELF TOO!!! You've got this***
 
